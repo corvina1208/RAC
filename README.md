@@ -22,6 +22,6 @@
 
 ### Cluster 관리
 - Cluster 역할
-- Daemon Process : [[보기]](https://rebel-lord-f41.notion.site/CSSD-CRSD-EVM-79f7e2ff8aa64712ac0dd051f9102380?pvs=4)
+- Daemon Process : CSSD & CRSD & EVM : [[보기]](https://rebel-lord-f41.notion.site/CSSD-CRSD-EVM-79f7e2ff8aa64712ac0dd051f9102380?pvs=4)
 - Voting disk 의 역할과 관리 방법 : [[보기]](https://rebel-lord-f41.notion.site/Voting-disk-0c4bd82d2d65412bbba5de18e585d81c?pvs=4)
 - OCR 파일 손상 시 복구 방법 : [[보기]](https://rebel-lord-f41.notion.site/OCR-ed3a838d4e8843d8ac9a4bc58ba29581?pvs=4)
