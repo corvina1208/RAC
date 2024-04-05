@@ -21,3 +21,6 @@
 - CTF (Connect Time Failover) : [[보기]](https://rebel-lord-f41.notion.site/CTF-Connect-Time-Failover-686ee00ab80748c18c4f4a3d7e60f17a?pvs=4)
 - TAF (Transparent Application Faliover) : [[보기]](https://rebel-lord-f41.notion.site/TAF-Transparent-Application-Faliover-d3b12b8cf053433188114eecaa680687?pvs=4)
 - FAN (Fast Application Notification) : [[보기]](https://rebel-lord-f41.notion.site/FAN-Fast-Application-Notification-f78f8499307b4d8d92f016106b27020c?pvs=4)
+
+### Cluster 관리
+- Daemon Process
