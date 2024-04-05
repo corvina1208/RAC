@@ -9,9 +9,11 @@
 - Rolling Patch & Rolling Upgrade : [[보기]](https://rebel-lord-f41.notion.site/Rolling-Patch-Rolling-Upgrade-b84ab7eb80ac485eb2b5adbfe76420bf?pvs=4)
 - Voting Disk & OCR File : [[보기]](https://rebel-lord-f41.notion.site/Voting-Disk-OCR-File-24b31a21c6444449b1a6eddbedb763e1?pvs=4)
 - RAC 설치 시 구성할 수 있는 Storage 3가지 : [[보기]](https://rebel-lord-f41.notion.site/RAC-Storage-3-7048c45dbd634f72ab95103eaaa59f5b?pvs=4)
-- RAC 환경에서 Redo log file 관리 : [[보기]](https://rebel-lord-f41.notion.site/RAC-Redo-log-file-8f7d151c964b47cc9a76a95863dc2279?pvs=4)
+- [RAC] Redo log file 관리 : [[보기]](https://rebel-lord-f41.notion.site/RAC-Redo-log-file-8f7d151c964b47cc9a76a95863dc2279?pvs=4)
 - RAC 환경에서 Redo log group 추가 : [[보기]](https://rebel-lord-f41.notion.site/RAC-Redo-log-group-ab819ff5cfed4e8aa534850b7ce41400?pvs=4)
 - RAC 환경에서 Undo tablespace 관리 : [[보기]](https://rebel-lord-f41.notion.site/RAC-Undo-tablespace-cba2936b43e541f0aa49ae4fee786ae0?pvs=4)
+- RAC 환경에서 Instance 시작 / 정지
+- 
 
 ### RAC의 고가용성
 - Client Load Balancing : [[보기]](https://rebel-lord-f41.notion.site/Client-Load-Balancing-8b52c32be96548cb8dbf8dcf3afc39c2?pvs=4)
