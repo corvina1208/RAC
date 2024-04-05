@@ -1,4 +1,4 @@
-## RAC
+# RAC
 
 - RAC 개념 : [[보기]](https://rebel-lord-f41.notion.site/RAC-e6488e6f56ac48379cedbb1a20de225b?pvs=4)
 - RAC 운영 시 필요한 IP 3가지 : [[보기]](https://rebel-lord-f41.notion.site/RAC-IP-3-d0a3d8b0bf574f189d787e081b856b89?pvs=4)
