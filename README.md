@@ -13,8 +13,6 @@
 - RAC 환경에서 Redo log group 추가
 - RAC 환경에서 Undo tablespace 관리
 
-<br>
-
 ### RAC의 고가용성
 - Client Load Balancing : [[보기]](https://rebel-lord-f41.notion.site/Client-Load-Balancing-8b52c32be96548cb8dbf8dcf3afc39c2?pvs=4)
 - Server Load Balancing : [[보기]](https://rebel-lord-f41.notion.site/Server-Load-Balancing-5ac1ac20dffb410e8c7f83ca385f243a?pvs=4)
