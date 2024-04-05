@@ -4,7 +4,6 @@
 - RAC 운영 시 필요한 IP 3가지 : [[보기]](https://rebel-lord-f41.notion.site/RAC-IP-3-d0a3d8b0bf574f189d787e081b856b89?pvs=4)
 - SpeedUp & ScaleUp : [[보기]](https://rebel-lord-f41.notion.site/SpeedUp-ScaleUp-9e1b25d82c804c449033d74aaca5670e?pvs=4)
 - GRD (Global Resource Directory) : [[보기]](https://rebel-lord-f41.notion.site/GRD-Global-Resource-Directory-117ce5a63cb2460aa02b65a863ef302a?pvs=4)
-<br>
 - RAC 환경에서 병렬 처리가 되는 원리
 - Cluster 서비스 3가지
 - Rolling Patch & Rolling Upgrade
@@ -13,6 +12,8 @@
 - RAC 환경에서 Redo log file 관리
 - RAC 환경에서 Redo log group 추가
 - RAC 환경에서 Undo tablespace 관리
+
+<br>
 
 - Client Load Balancing : [[보기]](https://rebel-lord-f41.notion.site/Client-Load-Balancing-8b52c32be96548cb8dbf8dcf3afc39c2?pvs=4)
 - Server Load Balancing : [[보기]](https://rebel-lord-f41.notion.site/Server-Load-Balancing-5ac1ac20dffb410e8c7f83ca385f243a?pvs=4)
