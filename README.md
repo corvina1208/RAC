@@ -7,7 +7,7 @@
 - RAC 환경에서 병렬 처리가 되는 원리 : [[보기]](https://rebel-lord-f41.notion.site/RAC-c01a0f8c29694f89bbefbf296870b9ae?pvs=4)
 - Cluster 서비스 3가지 : [[보기]](https://rebel-lord-f41.notion.site/Cluster-3-83b86e83bacd46dcb79fd8faf1a93936?pvs=4)
 - Rolling Patch & Rolling Upgrade : [[보기]](https://rebel-lord-f41.notion.site/Rolling-Patch-Rolling-Upgrade-b84ab7eb80ac485eb2b5adbfe76420bf?pvs=4)
-- Voting Disk & OCR File
+- Voting Disk & OCR File : [[보기]](https://rebel-lord-f41.notion.site/Voting-Disk-OCR-File-24b31a21c6444449b1a6eddbedb763e1?pvs=4)
 - RAC 설치 시 구성할 수 있는 Storage 3가지
 - RAC 환경에서 Redo log file 관리
 - RAC 환경에서 Redo log group 추가
