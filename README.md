@@ -10,7 +10,7 @@
 - Voting Disk & OCR File : [[보기]](https://rebel-lord-f41.notion.site/Voting-Disk-OCR-File-24b31a21c6444449b1a6eddbedb763e1?pvs=4)
 - RAC 설치 시 구성할 수 있는 Storage 3가지 : [[보기]](https://rebel-lord-f41.notion.site/RAC-Storage-3-7048c45dbd634f72ab95103eaaa59f5b?pvs=4)
 - RAC 환경에서 Redo log file 관리 : [[보기]](https://rebel-lord-f41.notion.site/RAC-Redo-log-file-8f7d151c964b47cc9a76a95863dc2279?pvs=4)
-- RAC 환경에서 Redo log group 추가
+- RAC 환경에서 Redo log group 추가 : [[보기]](https://rebel-lord-f41.notion.site/RAC-Redo-log-group-ab819ff5cfed4e8aa534850b7ce41400?pvs=4)
 - RAC 환경에서 Undo tablespace 관리
 
 ### RAC의 고가용성
