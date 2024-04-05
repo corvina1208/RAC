@@ -21,4 +21,5 @@
 - FAN (Fast Application Notification) : [[보기]](https://rebel-lord-f41.notion.site/FAN-Fast-Application-Notification-f78f8499307b4d8d92f016106b27020c?pvs=4)
 
 ### Cluster 관리
+- Cluster 역할
 - Daemon Process
