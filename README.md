@@ -5,7 +5,7 @@
 - SpeedUp & ScaleUp : [[보기]](https://rebel-lord-f41.notion.site/SpeedUp-ScaleUp-9e1b25d82c804c449033d74aaca5670e?pvs=4)
 - GRD (Global Resource Directory) : [[보기]](https://rebel-lord-f41.notion.site/GRD-Global-Resource-Directory-117ce5a63cb2460aa02b65a863ef302a?pvs=4)
 - RAC 환경에서 병렬 처리가 되는 원리 : [[보기]](https://rebel-lord-f41.notion.site/RAC-c01a0f8c29694f89bbefbf296870b9ae?pvs=4)
-- Cluster 서비스 3가지
+- Cluster 서비스 3가지 : [[보기]](https://rebel-lord-f41.notion.site/Cluster-3-83b86e83bacd46dcb79fd8faf1a93936?pvs=4)
 - Rolling Patch & Rolling Upgrade
 - Voting Disk & OCR File
 - RAC 설치 시 구성할 수 있는 Storage 3가지
