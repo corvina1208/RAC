@@ -1,5 +1,9 @@
 # RAC
 
+- RAC 설치(Oracle Database 11g) : [[보기]](https://rebel-lord-f41.notion.site/RAC-Oracle-Database-11g-61ab7ade96674d9ea3e47f73282e574d?pvs=4)
+
+<br>
+
 - RAC 개념 : [[보기]](https://rebel-lord-f41.notion.site/RAC-e6488e6f56ac48379cedbb1a20de225b?pvs=4)
 - RAC 운영 시 필요한 IP 3가지 : [[보기]](https://rebel-lord-f41.notion.site/RAC-IP-3-d0a3d8b0bf574f189d787e081b856b89?pvs=4)
 - SpeedUp & ScaleUp : [[보기]](https://rebel-lord-f41.notion.site/SpeedUp-ScaleUp-9e1b25d82c804c449033d74aaca5670e?pvs=4)
