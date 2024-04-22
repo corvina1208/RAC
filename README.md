@@ -39,6 +39,12 @@
 - Flashback database 불완전 복구 : [[보기]](https://rebel-lord-f41.notion.site/RAC-Flashback-database-d4f435a34fe74973a8b10aaa4ff6537b?pvs=4)
 - Tablespace 손상 & 복구 : [[보기]](https://rebel-lord-f41.notion.site/RAC-Tablespace-a3e4b11562f84befb897e234124ce68f?pvs=4)
 
+### RAC 환경 튜닝
+- RAC 환경에서의 튜닝 요소 : [[보기]](https://rebel-lord-f41.notion.site/RAC-42a7be1b256c4957997a376a1bb359ce?pvs=4)
+- Instance recovery 튜닝 : [[보기]](https://rebel-lord-f41.notion.site/Instance-recovery-2ae2f8b0188e45d9921dc8dd30ffc432?pvs=4)
+- Interconnect traffic 튜닝 : [[보기]](https://rebel-lord-f41.notion.site/Interconnect-traffic-0b341d27c51843ff879eedc9d83ba63d?pvs=4)
+- Global 동기화 작업에 대한 경합 튜닝의 큰 개요 : [[보기]](https://rebel-lord-f41.notion.site/Global-12d50a932f2b4b27a07c7b8610b429f5?pvs=4)
+
 ### RAC의 고가용성
 - Client Load Balancing : [[보기]](https://rebel-lord-f41.notion.site/Client-Load-Balancing-8b52c32be96548cb8dbf8dcf3afc39c2?pvs=4)
 - Server Load Balancing : [[보기]](https://rebel-lord-f41.notion.site/Server-Load-Balancing-5ac1ac20dffb410e8c7f83ca385f243a?pvs=4)
