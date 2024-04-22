@@ -44,6 +44,11 @@
 - Instance recovery 튜닝 : [[보기]](https://rebel-lord-f41.notion.site/Instance-recovery-2ae2f8b0188e45d9921dc8dd30ffc432?pvs=4)
 - Interconnect traffic 튜닝 : [[보기]](https://rebel-lord-f41.notion.site/Interconnect-traffic-0b341d27c51843ff879eedc9d83ba63d?pvs=4)
 - Global 동기화 작업에 대한 경합 튜닝의 큰 개요 : [[보기]](https://rebel-lord-f41.notion.site/Global-12d50a932f2b4b27a07c7b8610b429f5?pvs=4)
+- Cache fusion : [[보기]](https://rebel-lord-f41.notion.site/Cache-fusion-c0b7e2c938f147f28db1b5adc135aaff?pvs=4)
+- 부하의 원인을 파악하는 시뮬레이션 환경 구현 : [[보기]](https://rebel-lord-f41.notion.site/0fe3bfaa0b354483935d08ccca6a8e3e?pvs=4)
+- buffer busy wait : [[보기]](https://rebel-lord-f41.notion.site/buffer-busy-wait-08ad1c3840834fde9958b60ffe1784f3?pvs=4)
+- gc buffer busy waits : [[보기]](https://rebel-lord-f41.notion.site/gc-buffer-busy-waits-52696fc5413140b79953ccbe2ae50d30?pvs=4)
+- Enqueue & Lock : [[보기]](https://rebel-lord-f41.notion.site/Enqueue-Lock-0b858dbbc60d402ca6de6190cf6fc934?pvs=4)
 
 ### RAC의 고가용성
 - Client Load Balancing : [[보기]](https://rebel-lord-f41.notion.site/Client-Load-Balancing-8b52c32be96548cb8dbf8dcf3afc39c2?pvs=4)
